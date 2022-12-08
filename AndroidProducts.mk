@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_beyondx.mk
+    $(LOCAL_DIR)/cherish_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_beyondx-eng \
-    xtended_beyondx-user \
-    xtended_beyondx-userdebug
+    cherish_beyondx-eng \
+    cherish_beyondx-user \
+    cherish_beyondx-userdebug
