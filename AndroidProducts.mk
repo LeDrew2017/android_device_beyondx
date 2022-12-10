@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_beyondx.mk
+    $(LOCAL_DIR)/evolution_beyondx.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_beyondx-eng \
-    xtended_beyondx-user \
-    xtended_beyondx-userdebug
+    evolution_beyondx-eng \
+    evolution_beyondx-user \
+    evolution_beyondx-userdebug
